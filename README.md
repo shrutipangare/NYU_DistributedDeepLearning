@@ -1,17 +1,13 @@
-# Distributed Deep Learning and Neural Network Quantization
+# Distributed Deep Learning
 
 ## Project Overview
 
-This project explores two critical aspects of modern machine learning: **distributed deep learning** and **neural network quantization**. The implementation demonstrates how to efficiently train neural networks across multiple GPUs and reduce model size through quantization techniques while maintaining acceptable performance.
-
+This project explores two critical aspects of modern machine learning: **distributed deep learning** . The implementation demonstrates how to efficiently train neural networks across multiple GPUs.
 ## Table of Contents
 
 - [Part A: Distributed Deep Learning](#part-a-distributed-deep-learning)
-- [Part B: Neural Network Quantization](#part-b-neural-network-quantization)
 - [Setup and Requirements](#setup-and-requirements)
 - [Results Summary](#results-summary)
-- [Usage Instructions](#usage-instructions)
-- [Key Findings](#key-findings)
 
 ## Part A: Distributed Deep Learning
 
