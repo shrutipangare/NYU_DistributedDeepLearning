@@ -141,10 +141,10 @@ Where n = number of GPUs, model_size ≈ [specify model size in bytes]
 
 ## Commands:
 - python HW5_Q1.py
- ### For 2 GPUs
+# For 2 GPUs
 - CUDA_VISIBLE_DEVICES=0,1 python HW5_Q2_Q3.py --num_gpus 2 --batch_size 128
 
-  ### For 4 GPUs
+# For 4 GPUs
 - CUDA_VISIBLE_DEVICES=0,1,2,3 python HW5_Q2_Q3.py --num_gpus 4 --batch_size 512
 - CUDA_VISIBLE_DEVICES=0,1,2,3 python HW5_Q4.py --batch_size 2048 --num_gpus 4
 
